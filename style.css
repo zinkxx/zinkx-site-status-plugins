@@ -1,0 +1,27 @@
+/* Site Durum Bilgisi Eklentisi CSS */
+#statusChart {
+    margin-top: 20px;
+}
+
+.status-widget {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.status-widget ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.status-widget ul li {
+    font-size: 16px;
+    padding: 5px 0;
+}
+
+.status-widget h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
